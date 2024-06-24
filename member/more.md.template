@@ -1,0 +1,18 @@
++++
+name = "TODO"
+short_name = ""
+
+id = "your_id"
+
+portrait = "/portraits/.jpg"
+
+short_bio = "Some one-liner bio, markdown OK"
+external_link = ""
+
+faculty = 
+
+[[organizations]]
+    role = "Role"
+    name = "School"
++++
+
